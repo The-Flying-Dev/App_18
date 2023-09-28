@@ -21,7 +21,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A Currency Converter console app. In this program the uses chooses to convert British Pounds to Euros or vice versa.
+A Currency Converter console app. In this program the user chooses to convert British Pounds to Euros or vice versa.
 The following topics are covered: `User Input`, `Floats`, `ToString Formatting` and `Conditional Statements`.
 
 
